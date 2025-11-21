@@ -1,0 +1,7 @@
+{
+  "name": "Ramaiah Link",
+  "description": "A unified networking and mentorship platform for RUAS students and alumni, featuring AI-driven skill gap analysis and micro-mentorship sprints.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
